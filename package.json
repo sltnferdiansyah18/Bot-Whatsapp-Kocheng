@@ -1,0 +1,19 @@
+{
+  "name": "whatsapp-api",
+  "version": "1.0.0",
+  "description": "Bot Kocheng",
+  "main": "app.js",
+  "scripts": {
+    "bot": "node app.js"
+  },
+  "keywords": [
+    "whatsapp-api",
+    "node.js"
+  ],
+  "author": "Ferdii",
+  "license": "MIT",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.9.0"
+  }
+}
